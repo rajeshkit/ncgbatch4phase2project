@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ticket_booking.repository.CustomerRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.459 s - in com.ticket_booking.repository.CustomerRepositoryTest
